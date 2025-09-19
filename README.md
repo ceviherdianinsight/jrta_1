@@ -17,3 +17,9 @@
 
 
 ____
+
+<a id="1"></a>
+#### 1. How to Choose a Forex Broker?
+
+* 🔒 Regulation & Safety
+* 💰 Costs & Fees
