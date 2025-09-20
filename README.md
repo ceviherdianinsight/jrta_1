@@ -26,8 +26,16 @@ ____
   - Regulation number verified on the regulator’s official website.
   - Client funds kept in segregated accounts (not mixed with broker’s money).
   - Negative balance protection offered.
-* 💰 Costs & Fees
-* ⚡ Execution & Reliability
+* 💰 Costs & Fees:
+  - Spreads are competitive and transparent.
+  - Commission structure is clear (per lot or percentage).
+  - Overnight/swap fees are reasonable.
+  - No hidden charges on deposits/withdrawals.
+* ⚡ Execution & Reliability:
+  - Fast execution with minimal slippage.
+  - No frequent requotes during high volatility.
+  - Transparent order execution model (A-Book, B-Book, or hybrid).
+  - Verified history of fair trade execution.
 * 📊 Platforms & Tools
 * 💼 Account & Services
 * 📞 Customer Support
