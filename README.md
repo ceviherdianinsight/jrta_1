@@ -21,5 +21,14 @@ ____
 <a id="1"></a>
 #### 1. How to Choose a Forex Broker?
 
-* 🔒 Regulation & Safety
+* 🔒 Regulation & Safety:
+  - Broker is licensed and regulated by a trusted authority (FCA, NFA, ASIC, CySEC, etc.).
+  - Regulation number verified on the regulator’s official website.
+  - Client funds kept in segregated accounts (not mixed with broker’s money).
+  - Negative balance protection offered.
 * 💰 Costs & Fees
+* ⚡ Execution & Reliability
+* 📊 Platforms & Tools
+* 💼 Account & Services
+* 📞 Customer Support
+* ⭐ Reputation & Transparency
