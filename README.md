@@ -5,7 +5,7 @@
 
 [1-How to Choose a Forex Broker](#1)
 
-[2. How Do You Trade Forex?](#2)
+[2. How Do Forex Brokers Work?](#2)
 
 [3. When Can You Trade Forex?](#3)
 
@@ -55,3 +55,9 @@ ____
   - No major unresolved complaints with regulators.
   - Transparent about business model and risks.
   - Provides educational resources and market analysis.
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="2"></a>
+#### How Do Forex Brokers Work?
