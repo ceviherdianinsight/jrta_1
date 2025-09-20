@@ -36,7 +36,22 @@ ____
   - No frequent requotes during high volatility.
   - Transparent order execution model (A-Book, B-Book, or hybrid).
   - Verified history of fair trade execution.
-* 📊 Platforms & Tools
-* 💼 Account & Services
-* 📞 Customer Support
-* ⭐ Reputation & Transparency
+* 📊 Platforms & Tools:
+  - Trading platform available (MT4 / MT5 / cTrader / Ninjatrader / proprietary).
+  - Mobile, desktop, and web versions supported.
+  - Offers demo account to practice.
+  - Includes analysis tools, indicators, and automated trading support.
+* 💼 Account & Services:
+  - Account types match your trading style (scalping, day trading, swing, long-term).
+  - Reasonable minimum deposit requirements.
+  - Leverage options fit your risk profile.
+  - Wide range of instruments (FX pairs, indices, commodities, crypto, etc.).
+* 📞 Customer Support:
+  - Support available 24/5 or 24/7.
+  - Multiple channels: live chat, phone, email.
+  - Quick and helpful responses tested with sample questions.
+* ⭐ Reputation & Transparency:
+  - Broker has a good reputation in trader communities (forums, reviews).
+  - No major unresolved complaints with regulators.
+  - Transparent about business model and risks.
+  - Provides educational resources and market analysis.
